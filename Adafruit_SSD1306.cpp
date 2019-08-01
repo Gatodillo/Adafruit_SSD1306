@@ -32,8 +32,20 @@
  *
  * BSD license, all text above, and the splash screen included below,
  * must be included in any redistribution.
- *
+ * 
+ * @Section todo TODO
+ * <a href="https://forums.adafruit.com/viewtopic.php?f=47&t=29123">
+ * Hardware SPI from the latest SSD1306 Oled Library?</a>
+ * <a href="https://forum.arduino.cc/index.php/topic,108542">
+ * Changes to Adafruit SSD1306 library to speed it up</a>
+ * <a href="https://forums.adafruit.com/viewtopic.php?f=19&t=19079&start=15#p103938">
+ * Monochrome 128*64 OLED screen - SSD1306 driver questions</a>
  */
+
+
+
+
+
 
 #ifdef __AVR__
  #include <avr/pgmspace.h>
